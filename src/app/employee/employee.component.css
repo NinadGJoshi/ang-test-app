@@ -1,0 +1,17 @@
+table, th ,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th,td{
+    text-align: center;
+}
+
+.result-msg{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.err-msg{
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
