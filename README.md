@@ -1,3 +1,8 @@
+Steps to run the code:
+1. Download and extract the files
+2. Open the ang-test-app folder and run 'npm install' in node cmd
+3. Run 'ng serve' to run the project locally. 
+
 # AngTestApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
